@@ -1,0 +1,9 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+  <application>
+    <activity
+      android:name="com.guitarhero.practice.plugin.VolumeCustomActivity"
+      android:exported="true"
+      android:launchMode="singleTask" >
+    </activity>
+  </application>
+</manifest>
